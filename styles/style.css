@@ -1,0 +1,22 @@
+.grid {
+    display: grid;
+    place-items: center;
+}
+
+.text {
+    font-size: 20px;
+    background: #eb4356;
+    background: linear-gradient(90deg,#eb4356,#ef7a56);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+}
+
+.header {
+    background: #ef7a56;
+    padding: 25px;
+    text-align: center;
+    color: white;
+    font-size: 35px;
+}
